@@ -3,7 +3,7 @@ Tài nguyên cho môn học lập trình mạng.
 
 ### Tất cả bài tập cho môn lập trình mạng căn bản
 
-This repository contains the project work for the [NT106.N21.ANTN] course at [UIT] which gave me 10 score in overall.
+This repository contains the project work for the [NT106.N21.ANTN] course at [UIT] which gave me high score in overall.
 
 ## Overview
 
